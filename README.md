@@ -1,1 +1,2 @@
-print("Git Solo Tutorial Carrie")
+Git Solo Tutorial Carrie
+Winter 2024
